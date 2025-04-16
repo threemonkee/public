@@ -32,6 +32,8 @@ Python FastAPI
 
 OpenAI
 
+ChromaDB
+
 N8N
 
 NextJS
