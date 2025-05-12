@@ -12,6 +12,8 @@ https://github.com/langchain-ai/langchain
 
 https://github.com/microsoft/generative-ai-for-beginners
 
+https://github.com/open-webui/open-webui
+
 
 # AI References
 
@@ -30,9 +32,9 @@ React TypeScript
 
 Python FastAPI
 
-OpenAI
+OpenAI / Open Router
 
-ChromaDB
+ChromaDB / Pinecone
 
 N8N
 
@@ -43,3 +45,9 @@ Firebase suite
 - Firestore
 - RTDB
 - Cloud Functions
+
+Supabase
+
+AirTable
+
+PostgreSQL
