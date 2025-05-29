@@ -22,6 +22,8 @@ https://github.com/apple/ml-fastvlm
 
 https://github.com/exo-explore/exo
 
+https://github.com/getzep/graphiti
+
 
 # AI References
 
